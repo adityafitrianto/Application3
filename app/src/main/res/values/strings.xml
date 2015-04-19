@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application3</string>
+    <string name="inggris">lets play</string>
+    <string name="indonesia">ayo main</string>
+    <string name="btn_inggris">Translate</string>
+    <string name="btn_indonesia">Terjemahan</string>
+    <string name="action_settings">Settings</string>
+</resources>
